@@ -19,6 +19,11 @@ a:hover {
     width: 90%; /* adds space on either side*/
     max-width: 1000px; /*keeps div from getting too wide*/
 }
+    #aboutmepage {
+    margin: 0 auto; /* centers projects div*/
+    width: 90%; /* adds space on either side*/
+    max-width: 1000px; /*keeps div from getting too wide*/
+}
 header {
     margin-bottom: 20px;
     padding: 20px;
